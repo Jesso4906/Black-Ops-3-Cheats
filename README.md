@@ -1,2 +1,3 @@
 # Black-Ops-3-Cheats
-BO3 internal cheats
+
+Since the multiplayer servers are dead and apparently unsafe to play in, I was only able to test the cheats in a custom game with bots. 
